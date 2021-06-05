@@ -106,15 +106,10 @@ This is your crypto secret. You need this to prove to the network that you are t
 Supported assets - use the lowercase ticker in the "coin" parameter
 
 | Coin | Ticker |
-
 |--|--|
-
 | BITCOIN | btc |
-
 |ETHEREUM|eth|
-
 |LITECOIN|ltc|
-
 |RIPPLE|xrp|
 
 ### api_provider
@@ -124,23 +119,16 @@ This is the api provider you would like to use to interact with the rest of the 
 **Supported BTC apis**
 
 |API|Key required? | send_crypto parameter name|
-
 |--|--|--|
-
 | [Sochain](https://sochain.com/) | No |sochain|
-
 |[Blockcypher](https://www.blockcypher.com/)|Yes|blockcypher|
 
 **Supported ETH apis**
 
 |API|Key required? | send_crypto parameter name|
-
 |--|--|--|
-
 | [Etherscan](https://etherscan.io/) | Yes |etherscan|
-
 |[Blockcypher](https://www.blockcypher.com/)|Yes|blockcypher|
-
 |[Web3](https://web3js.readthedocs.io/)|Yes*|web3|
 
   
@@ -152,17 +140,13 @@ This is the api provider you would like to use to interact with the rest of the 
 **Supported LTC apis**
 
 |API|Key required? | send_crypto parameter name|
-
 |--|--|--|
-
 | [Sochain](https://sochain.com/) | No |sochain|
 
 **Supported XRP apis**
 
 |API|Key required? | send_crypto parameter name|
-
 |--|--|--|
-
 | [Ripple.API](https://xrpl.org/rippled-api.html) | Yes* |ripple.api|
 
 *note: If you would like to use your own ripple API serverthe "key" parameter is your connection string/url - The public no-key-required api service is `wss://s1.ripple.com`
