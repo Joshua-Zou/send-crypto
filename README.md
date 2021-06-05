@@ -11,7 +11,7 @@ Currently doesn't support hierarchical or single-use addresses.
 
 -   <img style="margin-bottom: -5px;" height="20" width="20" src=".https://qph.fs.quoracdn.net/main-qimg-6b38de5b5d9320901235aa116d38bfda" /> LTC 
 
--   <img style="margin-bottom: -5px;" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" /> ETH
+-   <img style="margin-bottom: -5px;" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/628px-Ethereum_logo_2014.svg.png" /> ETH
 
 -   <img style="margin-bottom: -5px;" height="20" width="20" src="https://brandslogos.com/wp-content/uploads/thumbs/ripple-logo-vector-1.svg" /> XRP
 
