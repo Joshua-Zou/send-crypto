@@ -9,7 +9,7 @@ Currently doesn't support hierarchical or single-use addresses.
 
 -   <img style="margin-bottom: -5px;" height="20" width="20" src="https://bitcoin.org/img/icons/opengraph.png?1621851118" /> BTC
 
--   <img style="margin-bottom: -5px;" height="20" width="20" src=".https://qph.fs.quoracdn.net/main-qimg-6b38de5b5d9320901235aa116d38bfda" /> LTC 
+-   <img style="margin-bottom: -5px;" height="20" width="20" src="https://qph.fs.quoracdn.net/main-qimg-6b38de5b5d9320901235aa116d38bfda" /> LTC 
 
 -   <img style="margin-bottom: -5px;" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" /> ETH
 
