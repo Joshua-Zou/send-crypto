@@ -8,7 +8,6 @@ A minimal JavaScript library for sending crypto assets.
 
   
 
-Currently doesn't support hierarchical or single-use addresses.
 
   
 
@@ -281,7 +280,7 @@ await account.send("reciever address", "all");
 
   
 
-## ETH, ERC20
+## ETH
 
   
 
